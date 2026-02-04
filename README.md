@@ -93,11 +93,10 @@ Note: Most modern LLMs (like GPT-4 or DeepSeek) are Decoder-only, optimized for 
 6.Latent Diffusion:
   To save computing power, models like Stable Diffusion perform this process in a compressed "latent space" rather than at the full pixel level.
 # 3. Generative AI Applications
-
-     Generative AI has transitioned from a laboratory curiosity to a fundamental utility across every major industry. By leveraging the 
-     architectures discussed in Exercise 2, these applications transform static data into creative and functional outputs.
+    
+    Generative AI has transitioned from a laboratory curiosity to a fundamental utility across every major industry. By leveraging the 
+architectures discussed in Exercise 2, these applications transform static data into creative and functional outputs.
 1. Software Development & Engineering:
-2. 
     This is arguably the most mature application of GenAI, where models function as "AI pair programmers."
 Code Generation:
       Tools like GitHub Copilot and Cursor use models like DeepSeek-Coder to write boilerplate, refactor functions, and generate unit tests.
